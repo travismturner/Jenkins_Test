@@ -20,6 +20,8 @@ namespace Jenkins_Test
                 Console.WriteLine("Hello World");
             if (message == 2)
                 Console.WriteLine("Hello Mars");
+			if (message == 3)
+				Console.WriteLine("Hello Venus");
             else
                 Console.WriteLine("No Greeting");
         }
