@@ -10,7 +10,7 @@ namespace Jenkins_Test
     {
         static void Main(string[] args)
         {
-            greeting(0);
+            greeting(1);
 
         }
 
